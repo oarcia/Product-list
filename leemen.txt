@@ -1,0 +1,2 @@
+Leeme
+primero crearemos una interfaz web que haga el crud de productos.
